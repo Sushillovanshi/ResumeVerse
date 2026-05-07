@@ -26,7 +26,7 @@ An interactive AI-powered 3D resume website built with modern web technologies t
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ResumeVerse.git
+git clone https://github.com/Sushillovanshi/ResumeVerse.git
 ```
 
 Go to the project directory:
